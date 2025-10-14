@@ -1,1 +1,1 @@
-# spotify-analytics-simple
+# 🎵 Spotify Analytics (prosty)
