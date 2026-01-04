@@ -1,4 +1,4 @@
-#🎵 Analiza popularności utworów muzycznych Spotify
+# 🎵 Analiza popularności utworów muzycznych Spotify
 👥 Skład zespołu
 
 Sebastian Krawczyk – lider
